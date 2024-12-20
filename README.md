@@ -6,51 +6,51 @@ Hi there! I'm passionate about programming, data science, and machine learning. 
 ## Technical Skills
 
 ### Languages
-- **Python**
-- **C++**
-- **R**
-- **SQL**
-- **JavaScript**
-- **Bash/Shell**
+- 🐍 **Python**
+- 💻 **C++**
+- 📊 **R**
+- 🛠️ **SQL**
+- 🌐 **JavaScript**
+- 🐚 **Bash/Shell**
 
 ### Machine Learning
-- **Supervised & Unsupervised Learning**
-- **Natural Language Processing (NLP/NLU)**
-- **Image Processing**
-- **Transformers**
+- 🤖 **Supervised & Unsupervised Learning**
+- 🧠 **Natural Language Processing (NLP/NLU)**
+- 🖼️ **Image Processing**
+- 🔗 **Transformers**
 
 ### Frameworks
-- **PyTorch**
-- **TensorFlow**
-- **SparkML**
-- **JAX**
-- **XGBoost**
-- **Hugging Face**
-- **Hadoop**
+- 🔥 **PyTorch**
+- 🧬 **TensorFlow**
+- ⚡ **SparkML**
+- 🛠️ **JAX**
+- 🌲 **XGBoost**
+- 🤗 **Hugging Face**
+- 📦 **Hadoop**
 
 ### Libraries
-- **pandas**
-- **NumPy**
-- **FAISS**
-- **Streamlit**
-- **Statsmodels**
-- **TensorBoard**
+- 🐼 **pandas**
+- 🔢 **NumPy**
+- 📚 **FAISS**
+- 🎨 **Streamlit**
+- 📈 **Statsmodels**
+- 📝 **TensorBoard**
 
 ### Model Deployment
-- **Flask**
-- **FastAPI**
-- **AWS SageMaker**
-- **RESTful APIs**
+- 🌐 **Flask**
+- 🚀 **FastAPI**
+- ☁️ **AWS SageMaker**
+- 🔄 **RESTful APIs**
 
 ### Developer Tools
-- **Git**
-- **Docker**
-- **Jenkins**
-- **Kubernetes**
-- **Linux**
-- **AWS**
-- **MLflow**
-- **Airflow**
+- 🛠️ **Git**
+- 🐳 **Docker**
+- ⚙️ **Jenkins**
+- 📦 **Kubernetes**
+- 🐧 **Linux**
+- ☁️ **AWS**
+- 📊 **MLflow**
+- 🌀 **Airflow**
 
 ## Projects
 - 🔥 Check out my repositories for exciting projects in NLP, computer vision, and full-stack ML solutions.
