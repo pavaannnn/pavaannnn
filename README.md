@@ -1,7 +1,7 @@
   ## Hi there 👋, I am Pavan Chandra
 
 
- About me 
+I’m a Machine Learning Engineer with a strong focus on Generative AI, transformer architectures, and distributed training. I specialize in fine-tuning models like BERT and GPT, improving accuracy and efficiency. Experienced with distributed training, CUDA for GPU acceleration, and cloud computing (AWS, Google Cloud), I build scalable AI systems that drive performance and innovation. My goal is to continue advancing AI solutions for complex real-world challenges.
 
 
 # 💻 Tech Stack:
