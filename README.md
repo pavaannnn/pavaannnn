@@ -15,3 +15,4 @@ I’m a Machine Learning Engineer with a strong focus on Generative AI, transfor
 [![](https://visitcount.itsvg.in/api?id=pavaannnn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Lost access to my old account due to losing access to my college email ID 😞
+(will be updating all my projects here soon)
